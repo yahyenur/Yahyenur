@@ -47,7 +47,7 @@ Assisted in security event analysis and real-time alarm management.
 
 ### 🌍 Beyond Tech
 - Mentor for **Minorities in Tech @ OSU** — helping students strengthen interview and problem-solving skills.  
-- Interested in **consulting, cybersecurity operations, and product strategy** roles.  
+- Interested in **Data Analyst, consulting, cybersecurity operations, and product strategy** roles.  
 - Enjoy learning about global markets, innovation trends, and security design thinking.  
 
 ---
