@@ -57,6 +57,3 @@ Assisted in security event analysis and real-time alarm management.
 📧 nur.48@osu.edu  
 
 ---
-
-> “Cybersecurity is not just about protecting data — it’s about protecting trust.”
-
